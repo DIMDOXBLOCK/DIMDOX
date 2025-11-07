@@ -1,21 +1,22 @@
-# FUNPAY
+# Zaphex
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-FUNPAY-blue?logo=google-chrome)](https://funpay.life/)
-[![Twitter](https://img.shields.io/badge/Twitter-FUNPAY-blue?logo=twitter)](https://x.com/FUNPAYLAB).
+[![Website](https://img.shields.io/badge/Website-Zaphex-blue?logo=google-chrome)](https://zaphex.net/)
+[![Twitter](https://img.shields.io/badge/Twitter-Zaphex-blue?logo=twitter)](https://x.com/Zaphexfun).
 
-FUNPAY — The First x402-Enabled MCP Server on Solana
+⚡ Zaphex — The Lightning Bridge of Solana
 
-FUNPAY is a next-generation infrastructure that connects autonomous AI agents directly to Solana through the x402 protocol. It transforms how intelligent systems interact with the blockchain — shifting from free, permissionless chaos to structured, auditable, and pay-per-access execution.
+In a world where blockchain networks operate like isolated power grids, Zaphex acts as the lightning conductor — channeling energy, liquidity, and logic between them at electric speed.
+Built natively on Solana, Zaphex introduces a new generation of bridge architecture focused on real-time synchronization, security through distributed relays, and instant verification.
 
-At its core, FUNPAY combines three powerful components: the x402 Payment Gateway, which handles on-chain authentication and pay-per-call access using Solana or USDC; the MCP Server Layer, which exposes verified blockchain tools for simulation and execution; and the Policy & Security Core, which governs every agent’s permissions, limits, and signing logic through KMS-secured protocols.
+At its core, Zaphex uses the Lightning Core Engine, a Solana-optimized layer that processes cross-chain operations in milliseconds by combining parallel validation, aggregate signatures, and temporal proofs.
+Each transaction travels through a mesh of decentralized relay nodes — the Zaphex Mesh Network — ensuring that data and assets flow seamlessly between Solana and external ecosystems without bottlenecks or delays.
 
-Agents communicate through a simple x402 endpoint — when they request an action, the server responds with a payment requirement, validates the transaction, and grants short-lived access tokens. Once authorized, the agent can simulate or execute operations on Solana in real time, all under transparent monitoring and precise rate control. Every action — from payment to transaction result — is recorded, hashed, and stored for verifiable auditing.
+Unlike traditional bridges that rely on static checkpoints or custodial locking, Zaphex operates as a dynamic circuit — constantly measuring network load and rebalancing liquidity channels in real time.
+This allows developers to integrate cross-chain functions into dApps, AI agents, or automated protocols with unmatched speed and reliability.
 
-FUNPAY turns blockchain access into an intelligent, economic network of autonomous agents. It brings together the speed of Solana, the flexibility of MCP, and the accountability of x402, creating a new foundation for AI-driven automation, decentralized finance operations, and on-chain creativity.
-
-Pay, verify, and act — FUNPAY makes Solana truly machine-accessible.
+Zaphex isn’t just a bridge — it’s the electrical system of the multichain world, transforming isolated blockchains into a living, connected grid of instant interaction.
